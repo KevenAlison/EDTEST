@@ -1,0 +1,3 @@
+﻿cl : Linha de comando warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
+  testArrayStack.cpp
+  gtest-as.vcxproj -> C:\Users\Keven Alison\source\repos\gtest-as\Debug\gtest-as.exe

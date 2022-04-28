@@ -1,0 +1,3 @@
+﻿cl : Linha de comando warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
+  testLinkedQueue.cpp
+  test-LQ.vcxproj -> C:\Users\Keven Alison\source\repos\test-LQ\Debug\test-LQ.exe

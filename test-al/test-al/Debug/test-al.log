@@ -1,0 +1,6 @@
+﻿cl : Linha de comando warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
+  testArrayList.cpp
+c:\users\keven alison\source\repos\test-al\test-al\testarraylist.cpp(151): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+c:\users\keven alison\source\repos\test-al\test-al\testarraylist.cpp(156): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+c:\users\keven alison\source\repos\test-al\test-al\testarraylist.cpp(157): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+  test-al.vcxproj -> C:\Users\Keven Alison\source\repos\test-al\Debug\test-al.exe

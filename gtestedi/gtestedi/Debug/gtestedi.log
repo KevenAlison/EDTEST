@@ -1,0 +1,5 @@
+﻿cl : Linha de comando warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
+  testDoublyLinkedList.cpp
+c:\users\keven alison\source\repos\gtestedi\gtestedi\testdoublylinkedlist.h(95): warning C4715: 'obterElementoEmPosicao': nem todos os caminhos de controle retornam um valor
+testLinkedList.obj : error LNK2005: "struct no * __cdecl alocarNovoNo(int)" (?alocarNovoNo@@YAPAUno@@H@Z) jß definida no testDoublyLinkedList.obj
+C:\Users\Keven Alison\source\repos\gtestedi\Debug\gtestedi.exe : fatal error LNK1169: encontrados um ou mais sÝmbolos m·ltiplos definidos
